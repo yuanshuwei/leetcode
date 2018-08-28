@@ -2,4 +2,4 @@
 
 :fist: RNG
 
-- [TwoSum](com/yuan/TwoSum.java)
+- [TwoSum](src/com/yuan/TwoSum.java)
